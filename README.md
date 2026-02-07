@@ -29,3 +29,7 @@ This project is a Java-based command-line application designed to perform variou
    - Validation: Encapsulation allows logic to prevent invalid states.
       - Division checks if getNum2() is zero inside its compute method before setting a result.
       - Circle checks if the radius is negative and sets valid to false if necessary, preventing invalid outputs.
+
+<img width="1210" height="749" alt="image" src="https://github.com/user-attachments/assets/534e44e8-3977-4514-a67a-1b00b27f3e45" />
+
+<img width="1148" height="557" alt="image" src="https://github.com/user-attachments/assets/edd3b086-f984-4bac-b3d8-72768a4c7df3" />
